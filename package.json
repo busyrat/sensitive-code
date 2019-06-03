@@ -1,0 +1,20 @@
+{
+  "name": "sensitive-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sensicode": "./bin/main.js"
+  },
+  "keywords": [
+    "sensitive",
+    "code",
+    "敏感代码",
+    "敏感词"
+  ],
+  "author": "",
+  "license": "ISC"
+}
