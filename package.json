@@ -1,6 +1,6 @@
 {
   "name": "sensitive-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,10 @@
     "敏感代码",
     "敏感词"
   ],
-  "author": "",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/busyrat/sensitive-code"
+  },  
+  "author": "busyrat",
   "license": "ISC"
 }
